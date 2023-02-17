@@ -1,0 +1,15 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "i2c.h": "c",
+            "nrf24l01.h": "c",
+            "usbd_hid_mouse.h": "c"
+        }
+    },
+    "extensions": {}
+}
